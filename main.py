@@ -27,4 +27,4 @@ output_path = os.path.join(output_folder, filename)
 
 qr.save(output_path)
 
-print(f"QR-код для введенной ссылки сохранен в '{output_path}'")
+print(f"The QR code for the entered link is saved in the'{output_path}'")
